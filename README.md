@@ -1,2 +1,1 @@
-# django-crm
-Django-test project
+Welcome to the EASY CRM Project
